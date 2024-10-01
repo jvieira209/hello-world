@@ -1,5 +1,5 @@
 # hello-world
-This repository is for practicing the GitHub Flow.
+(This repository is for practicing the GitHub Flow.)
 
 I'm a motivated transitioning service member, currently enrolled in the Washington Vets to Tech (WAV2T) program. This four-month certificate program will result in eighteen college credit hours towards a bachelor’s degree in computer science. Topics studied include Python, C#, HTML, Asp.Net, SQL, Fundamentals of Databases, Data Structures & Algorithms, and AI-Assisted Analysis and Development.
 
